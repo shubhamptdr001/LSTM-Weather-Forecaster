@@ -239,7 +239,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-* **Name:** [Your Name]
-* **GitHub:** [@yourusername](https://github.com/yourusername)
-* **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Name:** [Shubham Patidar]
+* **GitHub:** [shubhamptdr001](https://github.com/shubhamptdr001)
+* **LinkedIn:** [shubham-patidar](https://www.linkedin.com/in/shubham-patidar-479417229/)
+* **Email:** [shubham-patidar](mailto:shubhamptdr619@gmail.com)
