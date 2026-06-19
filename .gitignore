@@ -1,0 +1,17 @@
+# Project Reports (Do not upload as per rules)
+Aiot-projectReport*.docx
+Aiot-projectReport.pdf
+Aiot-projectReport (Autosaved).docx
+
+# Python virtual environments & caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
