@@ -3,7 +3,6 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 An end-to-end machine learning project that predicts the outdoor temperature 24 hours into the future using a Long Short-Term Memory (LSTM) neural network. The project features a complete preprocessing, training, and evaluation pipeline, along with an interactive Streamlit web dashboard for real-time inference, data visualization, and model validation.
 
